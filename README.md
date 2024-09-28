@@ -1,1 +1,1 @@
-{susu-xoa}  {thienthien-xoa} {phatphat-xoa} {khangkhang-xoa} {chienchien-xoa} 
+{susu-okxoa}  {thienthien-okxoa} {phatphat-okxoa} {khangkhang-okxoa} {chienchien-okxoa} 
